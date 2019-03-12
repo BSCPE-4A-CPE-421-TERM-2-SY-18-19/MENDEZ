@@ -1,0 +1,1 @@
+The old charger was not compatible with the microcopmputer in which gave us the assumption that the problem was the charger. the old charger was for a B+ model while the appropriate chrager is for a B model.
