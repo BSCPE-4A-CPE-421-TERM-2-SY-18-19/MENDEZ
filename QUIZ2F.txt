@@ -1,0 +1,3 @@
+Checking the power supply is a priority in fixing a faulty CPU.
+if the power supply is good and working check its cables if they are mounted correctly to the motherboard.
+if everything goes well the reason of your problem is the RAM or the CPU is dead.   
